@@ -4,7 +4,7 @@ A modern, responsive Todo application built with React, Redux Toolkit, and Tailw
 
 ## 📸 Screenshot
 
-![Redux Todo App Screenshot](src\assets\screenshot.png)
+![Redux Todo App Screenshot](src/assets/screenshot.png)
 
 *Beautiful gradient UI with glass morphism design*
 
